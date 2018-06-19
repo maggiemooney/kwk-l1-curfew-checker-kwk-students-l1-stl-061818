@@ -1,5 +1,5 @@
 def simple_curfew_checker(time)
-  puts ""
+  if Time.now.hour
 end
 
 def curfew_checker(time)
